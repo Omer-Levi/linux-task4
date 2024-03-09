@@ -1,11 +1,32 @@
-2024-03-09 14:05:18.144128448 - Repo Folder Created
-2024-03-09 14:05:18.238190253 -  downloaded
+2024-03-09 14:15:50.449995238 - Repo Folder Created
+2024-03-09 14:15:51.847051412 -  downloaded
+./file.tar.gz
 ./test_repo.sh
 ./logtest.log
+./.git/objects/fe/ecd973650ba0d88d94ffa55bf9c60c92dbb188
+./.git/objects/34/1d5a38fef8ccd3273f2176ee294dcc7c9b41c0
+./.git/objects/84/7c1a5c91254e232ca73139e478938b9bc753f0
+./.git/objects/5a/6e3eaa8fe767386089b38869e314fe7d6eafc6
+./.git/refs/heads/master
+./.git/refs/heads/BR_IMAGES
+./.git/refs/heads/BR_TEXT
+./.git/refs/remotes/origin/master
+./.git/refs/remotes/origin/BR_IMAGES
+./.git/refs/remotes/origin/BR_TEXT
 ./.git/HEAD
 ./.git/config
+./.git/index
+./.git/logs/refs/heads/master
+./.git/logs/refs/heads/BR_IMAGES
+./.git/logs/refs/heads/BR_TEXT
+./.git/logs/refs/remotes/origin/master
+./.git/logs/refs/remotes/origin/BR_IMAGES
+./.git/logs/refs/remotes/origin/BR_TEXT
+./.git/logs/HEAD
+./.git/COMMIT_EDITMSG
 ./.git/description
 ./.git/info/exclude
+./.git/ORIG_HEAD
 ./.git/hooks/pre-applypatch.sample
 ./.git/hooks/update.sample
 ./.git/hooks/pre-push.sample
@@ -19,3 +40,12 @@
 ./.git/hooks/post-update.sample
 ./.git/hooks/pre-merge-commit.sample
 ./.git/hooks/pre-rebase.sample
+./LinuxFiles-Data/linux3.png
+./LinuxFiles-Data/log_1.log
+./LinuxFiles-Data/file_1.txt
+./LinuxFiles-Data/webserver.log
+./LinuxFiles-Data/oslogs.log
+./LinuxFiles-Data/linux4.jpg
+./LinuxFiles-Data/linux2.jpg
+./LinuxFiles-Data/linux1.jpg
+./LinuxFiles-Data/file_2.txt
